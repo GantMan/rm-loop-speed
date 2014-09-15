@@ -7,6 +7,7 @@ You must run with `mode=release` for real results.
 
 i.e. `bundle exec rake mode=release`
 
+### Example output
 
 ```shell
 ****************************************************************************************************
